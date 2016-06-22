@@ -2,7 +2,7 @@
  Rumeur is a font designed by groupe CCC (Alice Gavin & Valentin Bigel) in 2011 for theater company Compagnie La Rumeur based in Choisy-le-Roi.
 
 ##Specimen
-![gbodywork1](https://github.com/groupeccc/blob/master/Rumeur/documentation/rumeur.svg)
+![gbodywork1](https://github.com/groupeccc/Rumeur/blob/master/documentation/rumeur.svg)
 
 ## License
 
